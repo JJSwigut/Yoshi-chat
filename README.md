@@ -2,6 +2,10 @@
 
 Native Android chat client shell for the Yoshi local agent. This app is intentionally single-module, Kotlin, Jetpack Compose, and Gradle Kotlin DSL.
 
+## Demo
+
+https://github.com/user-attachments/assets/a49cc366-0f46-449d-93b8-0d319e1177cc
+
 ## Run The Backend
 
 This repo contains the Android client only. The chat flow depends on the
